@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and cybersecurity
 - 🌱 I’m currently learning pentesting and Python.
 - 💞️ I’m looking to collaborate on other content github.
-- 📫 How to reach me abdramanovdana08@gmail.com
+- 📫 How to reach me abdramanovdana08@gmail.com , Telegram: https://t.me/danabekkkkk , Instagram: @d_abdramanov
 
 <!---
 Danabek008/Danabek008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
